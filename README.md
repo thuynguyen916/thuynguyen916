@@ -22,12 +22,12 @@ A data visualization project using Tableau and NYC Airbnb Open Data. Includes ge
 
 ---
 
-### 🧰 Tools & Technologies
+### 🧰 Tools
 
-- SQL (Microsoft SQL Server, MySQL)
+- SQL 
 - Tableau, Power BI
-- Python (Pandas, NumPy)
-- R (Tidyverse, ggplot2)
+- Python 
+- R 
 - Excel, PowerPoint
 
 ---
