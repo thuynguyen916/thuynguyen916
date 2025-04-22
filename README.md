@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Thuy!
 
-<!--
-**thuynguyen916/thuynguyen916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a first-generation grad student pursuing an MS in Business Analytics, with a concentration in Data Science.  
+💻 I’m passionate about using data to solve real-world problems and drive smarter decisions.  
+📊 Tools I work with: Python | R | SQL | Tableau 
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- 📈 Building data analytics projects in Python, R and SQL
+- 📊 Creating dashboards in Tableau and Power BI  
+- 👩‍💻 Preparing for a data analyst internship this summer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+- Data storytelling  
+- Predictive modeling  
+- Business intelligence  
+
+## 📫 Let’s Connect!
+- [LinkedIn](https://www.linkedin.com/in/thuynguyen0916)  
+- Email: thuy.nguyen.gl00@gmail.com
+
+Thanks for stopping by 😊
