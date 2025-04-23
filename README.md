@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Thuy Nguyen!
 
-🎓 I’m a Master’s student in Business Analytics at DePaul University (Kellstadt), with a concentration in Data Science. I love exploring data and turning it into insights that support smarter decisions.
+🎓 I’m a Master’s student in Business Analytics at DePaul University, with a concentration in Data Science. I love exploring data and turning it into insights that support smarter decisions.
 
 ---
 
