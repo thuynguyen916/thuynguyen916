@@ -34,7 +34,7 @@ A data visualization project using Tableau and NYC Airbnb Open Data. Includes ge
 
 ### 💬 Let's Connect!
 
-📫 [LinkedIn](https://www.linkedin.com/in/thuynguyen916/)  
+📫 [LinkedIn](www.linkedin.com/in/thuynguyen0916)  
 📂 [GitHub Portfolio](https://github.com/thuynguyen916)
 
 ---
