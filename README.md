@@ -20,6 +20,9 @@ A full SQL project using a personally collected dataset to explore actors, viewe
 🔹 [**NYC Airbnb Visualization (Tableau)**](https://github.com/thuynguyen916/nyc-airbnb-data-viz)  
 A data visualization project using Tableau and NYC Airbnb Open Data. Includes geographic heatmaps, rental trends, and hotel comparisons.
 
+🔹 [**Movie & TV Analytics (SQL)**](https://github.com/thuynguyen916/healthcare-analytics)
+An R-based project analyzing healthcare costs and loan default risks. Combines regression modeling and classification techniques to draw business insights from real-world datasets.
+
 ---
 
 ### 🧰 Tools
