@@ -21,6 +21,7 @@ A full SQL project using a personally collected dataset to explore actors, viewe
 A data visualization project using Tableau and NYC Airbnb Open Data. Includes geographic heatmaps, rental trends, and hotel comparisons.
 
 🔹 [**Healthcare & Loan Analytics (R)**](https://github.com/thuynguyen916/healthcare-analytics)
+
 An R-based project analyzing healthcare costs and loan default risks. Combines regression modeling and classification techniques to draw business insights from real-world datasets.
 
 ---
