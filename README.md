@@ -23,6 +23,9 @@ A data visualization project using Tableau and NYC Airbnb Open Data. Includes ge
 🔹 [**Healthcare & Loan Analytics (R)**](https://github.com/thuynguyen916/healthcare-analytics)  
 An R-based project analyzing healthcare costs and loan default risks. Combines regression modeling and classification techniques to draw business insights from real-world datasets.
 
+🔹 [**Python Practice Scripts (Python)**](https://github.com/thuynguyen916/python-practice)  
+Beginner-level Python scripts developed as part of my learning journey. Covers basic programming concepts, object-oriented programming (OOP), and practice exercises, with plans for more advanced projects in the future.
+
 ---
 
 ### 🧰 Tools
