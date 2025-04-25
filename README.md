@@ -6,9 +6,9 @@
 
 ### 💡 What I'm Working On
 
-- Building SQL, Tableau, and R projects to strengthen my analytics portfolio
 - Exploring real-world datasets
-- Actively developing technical skills in Python, SQL, R, and Tableau
+- Building projects in SQL, Tableau, and Python to grow my analytics portfolio
+- Sharpening technical skills in preparation for a Data Analyst/Business Analyst role
 
 ---
 
