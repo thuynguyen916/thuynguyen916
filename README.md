@@ -14,6 +14,9 @@
 
 ### 📌 Featured Projects
 
+🔹 [**US Baby Name (Python & Tableau)**](https://github.com/thuynguyen916/us-baby-names)  
+An interactive Tableau dashboard powered by Python and SSA data that lets users explore name trends, gender breakdowns, and popularity rankings across Gen Z and Gen Alpha. Data was cleaned and merged from 24 raw .txt files using a custom Python script.
+
 🔹 [**Movie & TV Analytics (SQL)**](https://github.com/thuynguyen916/movie-tv-sql-analytics)  
 A full SQL project using a personally collected dataset to explore actors, viewership, awards, and genre trends. Includes queries, schema logic, and an output report.
 
@@ -22,9 +25,6 @@ A data visualization project using Tableau and NYC Airbnb Open Data. Includes ge
 
 🔹 [**Healthcare & Loan Analytics (R)**](https://github.com/thuynguyen916/healthcare-analytics)  
 An R-based project analyzing healthcare costs and loan default risks. Combines regression modeling and classification techniques to draw business insights from real-world datasets.
-
-🔹 [**Python Practice Scripts (Python)**](https://github.com/thuynguyen916/python-practice)  
-Beginner-level Python scripts developed as part of my learning journey. Covers basic programming concepts, object-oriented programming (OOP), and practice exercises, with plans for more advanced projects in the future.
 
 ---
 
